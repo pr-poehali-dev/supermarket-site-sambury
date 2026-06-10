@@ -494,7 +494,7 @@ export default function Index() {
 
             <div className="space-y-4">
               {[
-                { emoji: "📞", label: "Телефон", value: "+7 (800) 555-САМИ", sub: "Бесплатно по России" },
+                { emoji: "📞", label: "Телефон", value: "+7 (964) 433-56-68", sub: "Звоните в любое время" },
                 { emoji: "📧", label: "Email", value: "privet@sambery.ru", sub: "Ответим в течение часа" },
                 { emoji: "💬", label: "Telegram", value: "@sambery_official", sub: "Для быстрых вопросов" },
                 { emoji: "📸", label: "Instagram*", value: "@sambery_market", sub: "Фото, акции, жизнь" },
