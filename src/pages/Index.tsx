@@ -404,7 +404,7 @@ export default function Index() {
                   </div>
                   <div className="text-4xl mb-3">{s.emoji}</div>
                   <h3 className="font-pacifico text-xl mb-2">{s.title}</h3>
-                  <p className="text-sm opacity-90 leading-relaxed">{s.desc}</p>
+                  <p className="opacity-90 leading-relaxed text-sm">{s.desc}</p>
                 </div>
               </div>
             ))}
