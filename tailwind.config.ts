@@ -56,11 +56,11 @@ export default {
           foreground: 'hsl(var(--card-foreground))'
         },
         sambery: {
-          orange: '#FF6B00',
-          yellow: '#FFD600',
-          green: '#2ECC71',
-          red: '#FF3B30',
-          dark: '#1A0F00',
+          orange: '#22c55e',
+          yellow: '#16a34a',
+          green: '#22c55e',
+          red: '#ef4444',
+          dark: '#052e16',
         },
         sidebar: {
           DEFAULT: 'hsl(var(--sidebar-background))',
