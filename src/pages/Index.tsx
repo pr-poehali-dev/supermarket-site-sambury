@@ -194,9 +194,7 @@ export default function Index() {
                     alt="Самбери супермаркет"
                     className="w-full max-w-md rounded-3xl shadow-2xl border-4 border-sambery-orange"
                   />
-                  <div className="absolute -top-4 -right-4 bg-sambery-red text-white font-pacifico text-lg px-5 py-3 rounded-2xl rotate-[8deg] shadow-lg animate-price-pop">
-                    Скидки!<br/>до 50%
-                  </div>
+                  <div className="absolute -top-4 -right-4 bg-sambery-red text-white font-pacifico text-lg px-5 py-3 rounded-2xl rotate-[8deg] shadow-lg animate-price-pop">Скидки до 50% , иногда</div>
                   <div className="absolute -bottom-4 -left-4 bg-sambery-yellow text-sambery-dark font-bold text-sm px-4 py-2 rounded-xl rotate-[-5deg] shadow-md">
                     🎉 Открыто каждый день!
                   </div>
